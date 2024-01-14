@@ -1,0 +1,34 @@
+{
+  "pacientes": [
+    { "nome": "Robson", "telefone": "98888888" },
+    { "nome": "Jéssica", "telefone": "97777777" },
+    { "nome": "Camila", "telefone": "96666666" },
+    { "nome": "Amaro", "telefone": "933333333" }
+  ],
+  "agendamentos": [
+    {
+      "paciente": { "nome": "Jéssica", "telefone": "97777777" },
+      "dia": "22/04",
+      "hora": "10:30",
+      "especialidade": "Clínico Geral"
+    },
+    {
+      "paciente": { "nome": "Camila", "telefone": "96666666" },
+      "dia": "13/09",
+      "hora": "15:45",
+      "especialidade": "Dentista"
+    },
+    {
+      "paciente": { "nome": "Amaro", "telefone": "933333333" },
+      "dia": "31/08",
+      "hora": "14:25",
+      "especialidade": "Psicólogo"
+    },
+    {
+      "paciente": { "nome": "Robson", "telefone": "98888888" },
+      "dia": "07/06",
+      "hora": "19:00",
+      "especialidade": "Ortopedista"
+    }
+  ]
+}
