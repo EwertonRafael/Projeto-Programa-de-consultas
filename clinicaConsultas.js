@@ -174,7 +174,7 @@ const cancelarConsulta = () => {
 const exibirMenu = () => {
   console.log();
   console.log("-----------------------------------");
-  console.log("------------Clínica Puc------------");
+  console.log("-----Clínica de consultas Ágil-----");
   console.log("-----------------------------------");
   console.log("\nMenu Principal:");
   console.log("1. Cadastrar Paciente");
